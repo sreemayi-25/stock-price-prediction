@@ -50,17 +50,17 @@ The models are trained on historical closing prices for **Tesla (TSLA)** and **G
 
 ### 🔷 LSTM vs Actual Tesla Prices
 LSTM Model Performance:
-RMSE: 15.310882195373841
-MAE: 10.262521419466847
-R²: 0.9966097164850514
-LSTM Predicted Future Price: 991.7583618164062
+- RMSE: 15.310882195373841
+- MAE: 10.262521419466847
+- R²: 0.9966097164850514
+- LSTM Predicted Future Price: 991.7583618164062
 <img width="1123" alt="Screenshot 2025-05-26 at 10 01 32 PM" src="https://github.com/user-attachments/assets/77c6066d-5549-487c-bb2c-75d36605c589" />
 
 ### 🔶 Linear Regression vs Actual Tesla Prices
 Linear Regression Model Performance:
-RMSE: 177.20871632592605
-MAE: 125.19323648227834
-R²: 0.4280574151980643
+- RMSE: 177.20871632592605
+- MAE: 125.19323648227834
+- R²: 0.4280574151980643
 <img width="1136" alt="Screenshot 2025-05-26 at 10 01 14 PM" src="https://github.com/user-attachments/assets/8213b9d5-1ef5-4fb7-8ae4-32a12440432c" />
 
 ---
@@ -69,17 +69,17 @@ R²: 0.4280574151980643
 
 ### 🔷 LSTM vs Actual Google Prices
 LSTM Model Performance:
-RMSE: 4.202916906289386
-MAE: 3.6607123528837273
-R²: 0.7353606103298167
-LSTM Predicted Future Price: 125.4801025390625
+- RMSE: 4.202916906289386
+- MAE: 3.6607123528837273
+- R²: 0.7353606103298167
+- LSTM Predicted Future Price: 125.4801025390625
 <img width="1125" alt="Screenshot 2025-05-26 at 10 02 40 PM" src="https://github.com/user-attachments/assets/7e7cf54a-711a-43db-97e3-443b16d78892" />
 
 ### 🔶 Linear Regression vs Actual Google Prices
 Linear Regression Model Performance:
-RMSE: 4.460313532140936
-MAE: 3.7101835365524294
-R²: 0.527828372618768
+- RMSE: 4.460313532140936
+- MAE: 3.7101835365524294
+- R²: 0.527828372618768
 <img width="1151" alt="Screenshot 2025-05-26 at 10 02 47 PM" src="https://github.com/user-attachments/assets/4e3f6eb9-73f2-4213-88ae-e05d934a1422" />
 
 
