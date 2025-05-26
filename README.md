@@ -44,8 +44,6 @@ The models are trained on historical closing prices for **Tesla (TSLA)** and **G
 
 ---
 
-## 📈 Stock Price Predictions
-
 ## 🚗 Tesla Stock Predictions
 
 ### 🔷 LSTM vs Actual Tesla Prices
